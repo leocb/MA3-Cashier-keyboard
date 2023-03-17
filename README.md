@@ -8,6 +8,13 @@ A quick Arduino program scans the keyboard as fast as possible and sends the app
 
 Included in this repo is the Arduino code and the keyboard stickers - MA Please don't sue me, thanks :)
 
+## Contributing
+
+- Feel free to open a PR with new features or bug fixes
+- Support this and more projects by donating:
+
+[![Paypal](https://user-images.githubusercontent.com/8310271/225498353-9d0a672d-ed45-4fed-9838-11d71ee49c28.png)](https://www.paypal.com/donate/?hosted_button_id=683D7S6KLX7EA)
+
 ## Seeing is believing:
 
 ![2022-10-01 17 13 04](https://user-images.githubusercontent.com/8310271/205207733-3d95949d-97ac-458f-9c15-32308bd59904.jpg)
